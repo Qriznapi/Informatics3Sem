@@ -4,7 +4,7 @@
 int main() {
     int n;
     scanf("%i", &n);
-    int min = INT_MAX;  // Инициализируем min максимальным значением int
+    int min = INT_MAX;
     for (int i = 0; i < n; ++i) {
         int a;
         scanf("%i", &a);
