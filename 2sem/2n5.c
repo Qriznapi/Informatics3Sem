@@ -14,7 +14,7 @@ int compare_by_sum(const void *a, const void *b) {
   return sum_digits(*(int *)a) - sum_digits(*(int *)b);
 }
 
-int main25() {
+int main() {
   freopen("numbers.txt", "r", stdin);
 
   freopen("sorted.txt", "w", stdout);
