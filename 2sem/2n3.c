@@ -6,7 +6,7 @@ int compare(const void *a, const void *b) {
     // return (*(int*)b - *(int*)a); // Descending order
 }
 
-int main23()
+int main()
 {
     int n, m;
     scanf("%i %i", &n, &m);
