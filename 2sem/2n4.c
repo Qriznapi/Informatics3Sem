@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main24()
+int main()
 {
     int n;
     scanf("%i", &n);
