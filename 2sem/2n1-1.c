@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main211()
+int main()
 {
   int a[1000];
   int n;
