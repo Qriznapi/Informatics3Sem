@@ -9,7 +9,7 @@ void safe_strcpy(char dest[], size_t n, const char src[]) {
     dest[i] = '\0';
 }
 
-int main57() {
+int main() {
     char a[10] = "Mouse";
     char b[50] = "LargeElephant";
 
