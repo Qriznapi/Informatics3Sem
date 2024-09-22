@@ -8,7 +8,7 @@ void print_even(int a, int b)
     }
 }
 
-int main33() {
+int main() {
 
   int a, b;
 
