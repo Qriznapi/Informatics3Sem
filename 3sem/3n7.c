@@ -9,7 +9,7 @@ int count_even(int *a, int n) {
   printf("%i\n", cnt);
 }
 
-int main37() {
+int main() {
 
   int n, a[100];
 
