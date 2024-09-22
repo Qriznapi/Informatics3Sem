@@ -8,7 +8,7 @@ unsigned long long int Afact(int n, int k)
     return result;
 }
 
-int main42()
+int main()
 {
     int n, k;
     scanf("%i %i", &n, &k);
