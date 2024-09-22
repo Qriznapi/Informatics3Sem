@@ -10,7 +10,7 @@ void reverse(int *a, int n) {
   }
 }
 
-int main38() {
+int main() {
 
   int n, a[100];
 
