@@ -11,7 +11,7 @@ float yearfrac(int n, int k)
     return result;
 }
 
-int main43()
+int main()
 {
     int n, k;
     scanf("%i %i", &n, &k);
