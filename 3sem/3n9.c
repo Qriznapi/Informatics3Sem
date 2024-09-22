@@ -16,7 +16,7 @@ void alice(int n) {
     bob(n);
 }
 
-int main39() {
+int main() {
 
   int n, a[100];
 
