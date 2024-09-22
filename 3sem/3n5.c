@@ -9,7 +9,7 @@ void print_binary(int a) {
     printf("%i", a % 2);
 }
 
-int main35() {
+int main() {
 
   int a;
 
