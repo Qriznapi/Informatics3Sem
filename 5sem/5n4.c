@@ -13,7 +13,7 @@ void encrypt(char* str, int k) {
     }
 }
 
-int main54() {
+int main() {
     char str[100];
     int k;
 
