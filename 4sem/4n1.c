@@ -7,7 +7,7 @@ long long int fact(long int n)
     return result;
 }
 
-int main41()
+int main()
 {
     int k;
     scanf("%lli", &k);
