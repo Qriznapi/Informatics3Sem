@@ -13,7 +13,7 @@ int is_palindrom(char *a)
     return 1 - flag;
 }
 
-int main53() {
+int main() {
     char a[100];
 
     scanf("%s", a);
