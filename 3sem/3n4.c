@@ -20,7 +20,7 @@ int sum_of_digits_rec(int a, int sum)
 }
 
 
-int main34() {
+int main() {
 
   int a;
 
