@@ -5,7 +5,7 @@ int cube(int a)
     return a * a * a;
 }
 
-int main31() {
+int main() {
 
   int a, b, max_length = 0, n = 0;
 
