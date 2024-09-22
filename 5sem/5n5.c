@@ -9,7 +9,7 @@ void trim_after_first_space(char str[]) {
     str[i] = '\0';
 }
 
-int main55() {
+int main() {
     char a[] = "Cats and Dogs";
     printf("%s\n", a);
     trim_after_first_space(a);
