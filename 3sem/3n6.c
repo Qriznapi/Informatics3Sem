@@ -10,7 +10,7 @@ int trib(int a)
     return t[a];
 }
 
-int main36() {
+int main() {
 
   int a;
 
