@@ -11,7 +11,7 @@ double fpi(int n)
 
 }
 
-int main44()
+int main()
 {
     int n, k;
     scanf("%i", &n);
