@@ -7,3 +7,5 @@
 3sem - function
 
 4sem - type
+
+5sem - string
