@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-void encrypt(char* str, int k) {
+void encrypt(char str[100], int k) {
     int len = strlen(str);
 
     for (int i = 0; i < len; i++) {
