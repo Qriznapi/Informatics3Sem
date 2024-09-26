@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int is_palindrom(char *a)
+int is_palindrom(char a[100])
 {
     int len = strlen(a);
     int flag = 0;
