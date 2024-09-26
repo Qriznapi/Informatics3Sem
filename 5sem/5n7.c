@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-void safe_strcpy(char dest[], size_t n, const char src[]) {
+void safe_strcpy(char dest[50], size_t n, const char src[50]) {
     size_t i;
     for (i = 0; i < n - 1 && src[i] != '\0'; i++) {
         dest[i] = src[i];
