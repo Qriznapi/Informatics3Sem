@@ -11,7 +11,7 @@ void mult2b(int* p, size_t n) {
     }
 }
 
-int main64()
+int main()
 {
     int a[10] = {1, 2, 3, 4, 5};
     mult2(&a, 5);
