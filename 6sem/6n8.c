@@ -8,11 +8,11 @@ int* max(int* pa, int* pb)
 }
 
 
-int main68()
+int main()
 {
     int a = 10;
     int b = 30;
     int c = 20;
     *max(max(&a, &b), &c) += 1;
-    printf("%i %i %i\n", a, b, c);  // Напечатает 10 31 20
+    printf("%i %i %i\n", a, b, c);  // ГЌГ ГЇГҐГ·Г ГІГ ГҐГІ 10 31 20
 }
