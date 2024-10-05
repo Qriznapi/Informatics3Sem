@@ -16,7 +16,7 @@ int solve_quadratic(double a, double b, double c, double* px1, double* px2) {
     return 0;
 }
 
-int main65() {
+int main() {
     double a, b, c, x1, x2;
     scanf("%lf %lf %lf", &a, &b, &c);
 
