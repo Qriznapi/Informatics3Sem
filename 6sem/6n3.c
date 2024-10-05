@@ -6,7 +6,7 @@ void cube(float* px){
 }
 
 
-int main63()
+int main()
 {
     float a = 10;
     cube(&a);
