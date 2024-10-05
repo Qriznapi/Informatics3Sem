@@ -7,7 +7,7 @@ void set_characters(const char* begin, const char* end, char c)
     }
 }
 
-int main66()
+int main()
 {
     char s[] = "Sapere Aude";
     set_characters(&s[2], &s[8], 'b');
