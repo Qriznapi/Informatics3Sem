@@ -9,3 +9,9 @@
 4sem - type
 
 5sem - string
+
+6sem - pointer
+
+7sem - struct
+
+8sem - segments
