@@ -27,7 +27,7 @@ struct fox {
     struct mouse y;
 };
 
-int main74() {
+int main() {
     printf("char %zu %zu\n", sizeof(char), _Alignof(char));
     printf("int %zu %zu\n", sizeof(int), _Alignof(int));
     printf("size_t %zu %zu\n", sizeof(size_t), _Alignof(size_t));
