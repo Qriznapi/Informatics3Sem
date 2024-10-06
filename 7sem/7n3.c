@@ -18,7 +18,7 @@ int cmpg(const void *a, const void *b) {
     return 0;
 }
 
-int main73() {
+int main() {
     int n;
     scanf("%d\n", &n);
 
