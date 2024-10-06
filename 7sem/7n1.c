@@ -15,7 +15,6 @@ struct triangle
 };
 typedef struct triangle Triangle;
 
-// Тут нужно написать все необходимые функции
 void print_point(Point p) {
     printf("(%0.2f, %0.2f)", p.x, p.y);
 }
@@ -56,7 +55,7 @@ void move_triangle(Triangle *t, Point d) {
     t->c.y += d.y;
 }
 
-int main71()
+int main()
 {
     Triangle t = {{1.00, 0.00}, {0.50, 2.00}, {0.00, 1.50}};
     printf("Perimeter = %.2f\n", get_triangle_perimeter(&t));
