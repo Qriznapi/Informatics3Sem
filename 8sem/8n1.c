@@ -10,7 +10,7 @@ struct book
 typedef struct book Book;
 
 
-int main81() {
+int main() {
     size_t* number = (size_t*)malloc(sizeof(size_t));
 
     *number = 123;
