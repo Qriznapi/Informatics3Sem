@@ -16,4 +16,4 @@
 
 8sem - segments
 
-9sem - DynaRray
+9sem - dynarray
