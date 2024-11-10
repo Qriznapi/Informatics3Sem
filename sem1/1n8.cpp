@@ -5,12 +5,12 @@ void addBrackets(std::string& str) {
     str = "[" + str + "]";
 }
 
-int main18() {
+int main() {
     std::string a = "Cat";
     addBrackets(a);
-    std::cout << a << std::endl; // Äîëæíî íàïå÷àòàòü [Cat]
+    std::cout << a << std::endl; // Ã„Ã®Ã«Ã¦Ã­Ã® Ã­Ã Ã¯Ã¥Ã·Ã Ã²Ã Ã²Ã¼ [Cat]
     addBrackets(a);
-    std::cout << a << std::endl; // Äîëæíî íàïå÷àòàòü [[Cat]]
+    std::cout << a << std::endl; // Ã„Ã®Ã«Ã¦Ã­Ã® Ã­Ã Ã¯Ã¥Ã·Ã Ã²Ã Ã²Ã¼ [[Cat]]
 
     return 0;
 }
