@@ -17,13 +17,13 @@ void print(const std::vector<int>& v) {
     std::cout << std::endl;
 }
 
-int main111() {
+int main() {
     std::vector<int> v(3);
     v[0] = 10;
     v[1] = 20;
     v[2] = 30;
     doubling(v);
-    print(v); // Должно напечатать 10 20 30 10 20 30
+    print(v); // Г„Г®Г«Г¦Г­Г® Г­Г ГЇГҐГ·Г ГІГ ГІГј 10 20 30 10 20 30
 
     return 0;
 }
