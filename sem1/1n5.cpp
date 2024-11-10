@@ -14,7 +14,7 @@ bool isExpensive(const Book& book) {
     return book.price > 1000;
 }
 
-int main15() {
+int main() {
     Book book1{"Expensive", 300, 1500};
     Book book2{"Cheap", 200, 500};
 
