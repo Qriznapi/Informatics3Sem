@@ -6,10 +6,10 @@ int& getRefToMax(int& a, int& b) {
     return b;
 }
 
-int main14() {
+int main() {
     int a = 10;
     int b = 20;
     getRefToMax(a, b) += 1;
-    std::cout << a << " " << b << std::endl; // Äîëæíî íàïå÷àòàòü 10 21
+    std::cout << a << " " << b << std::endl; // Ã„Ã®Ã«Ã¦Ã­Ã® Ã­Ã Ã¯Ã¥Ã·Ã Ã²Ã Ã²Ã¼ 10 21
     return 0;
 }
