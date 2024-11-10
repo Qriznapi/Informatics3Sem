@@ -4,9 +4,9 @@ void cube(int& n) {
     n = n * n * n;
 }
 
-int main12() {
+int main() {
     int a = 5;
     cube(a);
-    std::cout << a << std::endl; // Äîëæíî íàïå÷àòàòü 125
+    std::cout << a << std::endl; // Ã„Ã®Ã«Ã¦Ã­Ã® Ã­Ã Ã¯Ã¥Ã·Ã Ã²Ã Ã²Ã¼ 125
     return 0;
 }
