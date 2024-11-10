@@ -17,3 +17,7 @@
 8sem - segments
 
 9sem - dynarray
+
+---------------------------
+
+sem1 - ref_string_vector
