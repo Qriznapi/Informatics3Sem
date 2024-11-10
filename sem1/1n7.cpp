@@ -16,7 +16,7 @@ void countLetters(const std::string& str, int& numLetters, int& numDigits) {
     }
 }
 
-int main17() {
+int main() {
     std::string input = "abacaba888";
     int letters = 0;
     int digits = 0;
