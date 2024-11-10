@@ -11,10 +11,10 @@ std::string concatenate(const std::vector<std::string>& v) {
     return result;
 }
 
-int main112() {
+int main() {
     std::vector<std::string> v(5);
     v[0] = "Cat", v[1] = "Dog", v[2] = "Mouse", v[3] = "Tiger", v[4] = "Elk";
-    std::cout << concatenate(v) << std::endl; // Äîëæíî íàïå÷àòàòü CatDogMouseTigerElk
+    std::cout << concatenate(v) << std::endl; // Ã„Ã®Ã«Ã¦Ã­Ã® Ã­Ã Ã¯Ã¥Ã·Ã Ã²Ã Ã²Ã¼ CatDogMouseTigerElk
 
     return 0;
 }
