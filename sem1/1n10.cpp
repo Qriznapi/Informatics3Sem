@@ -7,10 +7,10 @@ bool isDomainName(const std::string& str) {
     return 0;
 }
 
-int main110() {
-    std::cout << isDomainName("www.google.com") << std::endl; // Íàïå÷àòàåò 1
-    std::cout << isDomainName("abc") << std::endl;            // Íàïå÷àòàåò 0
-    std::cout << isDomainName("hello.com") << std::endl;      // Íàïå÷àòàåò 0
+int main() {
+    std::cout << isDomainName("www.google.com") << std::endl; // ÃÃ Ã¯Ã¥Ã·Ã Ã²Ã Ã¥Ã² 1
+    std::cout << isDomainName("abc") << std::endl;            // ÃÃ Ã¯Ã¥Ã·Ã Ã²Ã Ã¥Ã² 0
+    std::cout << isDomainName("hello.com") << std::endl;      // ÃÃ Ã¯Ã¥Ã·Ã Ã²Ã Ã¥Ã² 0
 
     return 0;
 }
