@@ -6,11 +6,11 @@ void swap(int& a, int& b) {
     b = tmp;
 }
 
-int main13() {
+int main() {
     int a = 10;
     int b = 20;
-    std::cout << a << " " << b << std::endl; // Äîëæíî íàïå÷àòàòü 10 20
+    std::cout << a << " " << b << std::endl; // Ã„Ã®Ã«Ã¦Ã­Ã® Ã­Ã Ã¯Ã¥Ã·Ã Ã²Ã Ã²Ã¼ 10 20
     swap(a, b);
-    std::cout << a << " " << b << std::endl; // Äîëæíî íàïå÷àòàòü 20 10
+    std::cout << a << " " << b << std::endl; // Ã„Ã®Ã«Ã¦Ã­Ã® Ã­Ã Ã¯Ã¥Ã·Ã Ã²Ã Ã²Ã¼ 20 10
     return 0;
 }
