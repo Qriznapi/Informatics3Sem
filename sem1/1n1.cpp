@@ -13,7 +13,7 @@ namespace mipt {
     }
 }
 
-int main11() {
+int main() {
     mipt::fefm::Point p1;
     p1.x = 10;
     p1.y = 20;
