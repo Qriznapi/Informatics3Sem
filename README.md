@@ -21,3 +21,7 @@
 ---------------------------
 
 sem1 - ref_string_vector
+
+sem2 - encapsulation
+
+sem3 - initialization
