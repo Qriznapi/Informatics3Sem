@@ -1,5 +1,7 @@
 # Informatics3Sem
 
+# C
+
 1sem - hello
 
 2sem - array
@@ -19,6 +21,8 @@
 9sem - dynarray
 
 ---------------------------
+
+# C++
 
 sem1 - ref_string_vector
 
