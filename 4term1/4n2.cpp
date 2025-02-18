@@ -13,8 +13,8 @@ struct Ball {
     float c;
     sf::Vector2f v;
 
-    Ball(float r, float m, float c, sf::Vector2f p)
-        : m(m), c(c), v(0, 0) {
+    Ball(float r, float m, float c, sf::Vector2f p) :
+        m(m), c(c), v(0, 0) {
         s.setRadius(r);
         s.setOrigin(r, r);
         s.setPosition(p);
