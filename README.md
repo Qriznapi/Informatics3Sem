@@ -32,3 +32,4 @@ sem3 - initialization
 
 ---------------------------
 4term1 - sfml
+4term3 - inheritance
