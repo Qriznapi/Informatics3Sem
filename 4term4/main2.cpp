@@ -4,7 +4,7 @@
 #include <SFML/Window.hpp>
 #include <SFML/Graphics.hpp>
 
-#include "widget.hpp"
+#include "Widget.hpp"
 #include "button.hpp"
 #include "slider.hpp"
 #include "draggable.hpp"
