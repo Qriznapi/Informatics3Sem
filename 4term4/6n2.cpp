@@ -101,7 +101,7 @@ void letThemSpeakUniq(const std::vector<std::unique_ptr<Individual>>& individual
     }
 }
 
-int main62() {
+int main() {
     auto individuals = createIndividuals();
     letThemSpeak(individuals);
     deleteIndividuals(individuals);
