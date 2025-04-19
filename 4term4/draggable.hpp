@@ -3,6 +3,7 @@
 #include <cmath>
 #include <SFML/Window.hpp>
 #include <SFML/Graphics.hpp>
+#include "Widget.hpp"
 
 
 class Draggable : public Widget
