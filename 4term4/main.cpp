@@ -6,6 +6,7 @@
 #include "button.hpp"
 #include "slider.hpp"
 #include "draggable.hpp"
+#include "Widget.hpp"
 
 
 
