@@ -36,3 +36,7 @@ sem3 - initialization
 4term3 - inheritance
 
 4term4 - polymorphism
+
+4term5 - observer_command
+
+4term6 - compilation
