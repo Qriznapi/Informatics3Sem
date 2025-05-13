@@ -1,4 +1,4 @@
-# Informatics3Sem
+# Informatics3-4Sem
 
 # C
 
