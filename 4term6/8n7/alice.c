@@ -1,7 +1,6 @@
 #include "alice.h"
 #include "bob.h"
-
-int value = 0;
+#include "common.h"
 
 void cat()
 {
