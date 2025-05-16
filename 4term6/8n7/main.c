@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "alice.h"
 #include "bob.h"
+#include "common.h"
 
 int value = 0;
 
@@ -15,4 +16,5 @@ int main()
     dog();
 
     printf("value = %i\n", value);
+    return 0;
 }
